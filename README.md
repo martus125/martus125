@@ -10,13 +10,13 @@ I’m a fourth-year Technical and Computer Education student at AGH University o
 - JavaScript
 - SQL — basics
 - Excel
-- Git & GitHub
+- Git
 - Adobe Photoshop
 - Adobe Illustrator
 
 ## Project
 
-# HikeUp
+### HikeUp
 Web application for planning mountain hiking routes.
 
 The project includes:
@@ -27,7 +27,7 @@ The project includes:
 
 **Technologies**: Python, Flask, React, Git
 
-### Education
+## Education
 
 **AGH University of Krakow**  
 Technical and Computer Education — Engineering degree  
