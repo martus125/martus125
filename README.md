@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Marta 👋
 
-<!--
-**martus125/martus125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year Technical and Computer Education student at AGH University of Krakow.
 
-Here are some ideas to get you started:
+I’m a fourth-year Technical and Computer Education student at AGH University of Krakow. I’m developing my skills in new technologies through my engineering project and personal projects. I combine technical competencies with experience in marketing, project coordination, and several years of active involvement in the Student Government.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- JavaScript
+- SQL — basics
+- Excel
+- Git & GitHub
+- Adobe Photoshop
+- Adobe Illustrator
+
+## Project
+
+# HikeUp
+Web application for planning mountain hiking routes.
+
+The project includes:
+- route calculation,
+- comparison of Dijkstra, A*, Greedy and a custom algorithm,
+- processing map and elevation data,
+- analysis of algorithm performance and route quality.
+
+**Technologies**: Python, Flask, React, Git
+
+### Education
+
+**AGH University of Krakow**  
+Technical and Computer Education — Engineering degree  
+2023 – now
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/martajedrys/
